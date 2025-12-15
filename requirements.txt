@@ -1,0 +1,27 @@
+# Core dependencies
+cerebras-cloud-sdk
+PyPDF2
+nltk
+numpy
+pandas
+gdown
+gradio
+firebase-admin
+plotly
+scipy
+requests
+
+# ML and Hugging Face (optional but recommended)
+transformers
+torch
+pillow
+scikit-learn
+xgboost
+
+# Report generation (optional)
+python-docx
+
+# Accelerated inference (optional)
+accelerate
+datasets
+huggingface_hub
